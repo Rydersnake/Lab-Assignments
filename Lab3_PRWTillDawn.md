@@ -1,4 +1,4 @@
-# 🔐 Penetration Testing Lab Report  
+# 🔐 Penetration Testing Lab Report   
 ## VPN Access, Network Scanning & Web Enumeration (Nmap + Gobuster)
 
 ---
